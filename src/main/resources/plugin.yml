@@ -1,0 +1,7 @@
+name: FenderEnder
+version: '${project.version}'
+main: io.github.olinjohnson.fenderender.FenderEnder
+api-version: 1.19
+authors: [ OlinJohnson ]
+description: Gives all players in the end an achievement when the ender dragon is dies.
+website: olinjohnson.github.io
